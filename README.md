@@ -1,2 +1,2 @@
 # we-talkin-bout-practice
-A collection of simply Python scripts that solve practice problems
+A collection of simple Python scripts that solve practice problems
